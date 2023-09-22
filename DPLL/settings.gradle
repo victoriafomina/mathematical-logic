@@ -1,0 +1,6 @@
+rootProject.name = 'DPLL'
+include 'dpll-core'
+include 'dpll-usage'
+include 'dpll-solver'
+include 'dpll-usage'
+
